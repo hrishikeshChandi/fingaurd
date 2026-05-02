@@ -1,0 +1,17 @@
+{
+    "insider_trading": [
+        "\\b(how to|teach me|give me|help me)\\s+(with\\s+)?insider trading\\b",
+        "\\binsider\\s+trading\\s+(tips|advice|strategies|methods)\\b",
+        "\\bnon[- ]?public\\s+information\\s+(for|to)\\s+trade\\b"
+    ],
+    "guaranteed_returns": [
+        "\\b(how to|give me|teach me)\\s+guaranteed returns?\\b",
+        "\\brisk[- ]?free\\s+profit\\b",
+        "\\b100%\\s+return\\b"
+    ],
+    "illegal_activity": [
+        "\\b(how to|teach me|help me)\\s+(launder|hide)\\s+money\\b",
+        "\\bmoney\\s+laundering\\s+(techniques|methods|tips)\\b",
+        "\\btax\\s+evasion\\s+(strategies|methods|tips)\\b"
+    ]
+}
